@@ -6,19 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Intro.unity
+    path: Assets/CompositorLayers/Scenes/Intro.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Performance.unity
+    path: Assets/CompositorLayers/Scenes/Performance.unity
     guid: 87996f4281c5a3047962ab6fd6122d77
   - enabled: 1
-    path: Assets/Scenes/Independence.unity
+    path: Assets/CompositorLayers/Scenes/Independence.unity
     guid: cca051e35258a374ba4087ad8c42eb6e
   - enabled: 1
-    path: Assets/Scenes/LayerShapes.unity
+    path: Assets/CompositorLayers/Scenes/LayerShapes.unity
     guid: 8c8fb8174a29cef4e8f032a36abbdfa9
   - enabled: 1
-    path: Assets/Scenes/Filtering.unity
+    path: Assets/CompositorLayers/Scenes/Filtering.unity
     guid: 10ae2d61c9b1e9a4b8dee8a6dcda45d8
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 70e2f548bd064fc459566bc0c8ac7648, type: 2}

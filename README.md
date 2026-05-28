@@ -55,3 +55,9 @@ Compositor layers can only render a given texture in a predefined set of meshes,
 ## Filtering
 
 Apps interested in providing a high-quality reading or HD-video-watching experience at any distance, or on moving surfaces, should understand the filtering options available to them. Filtering can remove shimmering effects, and improve readability, in scenarios where the rendered texture is extremely stretched or squashed to fit the shape of its compositor layer.
+
+## AI coding agents
+
+This repo is wired up for AI coding agents — `AGENTS.md`, `.vscode/extensions.json`, `.mcp.json`, `.cursor/rules/`, and a few client-specific dotfiles surface the **Meta Horizon** VS Code/Cursor extension, the `hzdb` MCP server, and the Meta Quest skill set automatically.
+
+Full toolchain (including Unity skills and per-client install instructions): <https://github.com/meta-quest/agentic-tools>
